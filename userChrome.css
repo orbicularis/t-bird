@@ -1,0 +1,9 @@
+
+/* Row Height*/ treechildren::-moz-tree-row {
+
+   margin-top: 3px !important;
+   margin-bottom: 3px !important;
+
+}
+
+treechildren {font-size: 12pt; font-family: Arial;}
