@@ -3,7 +3,13 @@
 
    margin-top: 3px !important;
    margin-bottom: 3px !important;
-
 }
 
-treechildren {font-size: 12pt; font-family: Overpass;}
+treechildren {
+   font-family: Inconsolata;
+/*   line-height: 1.4; */
+   font-weight: normal;
+   font-stretch: condensed;
+/*   font-variant: small-caps; */
+   font-size: 15px;
+}
